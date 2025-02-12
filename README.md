@@ -1,4 +1,4 @@
-# NutsSkins
+# Nut's Skins
 A list of skins used by NitroBTW/Nut/HasbinBTW (Why do i have so many usernames)
 
 # [Yugen remastered](https://osu.ppy.sh/community/forums/topics/1999325?n=1)
